@@ -32,6 +32,10 @@ var/
 pip-log.txt
 pip-delete-this-directory.txt
 
+# deps
+
+src/pywb
+
 # Unit test / coverage reports
 htmlcov/
 .tox/
